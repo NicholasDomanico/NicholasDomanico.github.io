@@ -23,7 +23,7 @@ title: Straight Packet
 description: >- # this means to ignore newlines until "baseurl:"
   For all things networking.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nicholasdomanico.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NicholasD_IT
 github_username:  NicholasDomanico
 
@@ -39,6 +39,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-sitemap
   
 paginate: 5  # amount of posts to show per page
 paginate_path: /page:num/
