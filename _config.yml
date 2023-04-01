@@ -21,7 +21,7 @@
 title: Straight Packet
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  For all things networking.
+  Welcome to my blog!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nicholasdomanico.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NicholasD_IT
@@ -41,7 +41,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   
-paginate: 5  # amount of posts to show per page
+paginate: 10  # amount of posts to show per page
 paginate_path: /page:num/
 
 search: true
