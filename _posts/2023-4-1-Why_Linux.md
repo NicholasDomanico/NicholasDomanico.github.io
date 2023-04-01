@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 title:  "Why Linux?"
+excerpt: Why is Linux used everywhere?
 ---
 
 
